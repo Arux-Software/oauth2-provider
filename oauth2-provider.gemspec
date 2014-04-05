@@ -30,6 +30,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sqlite3', '~>1.3.9'
   s.add_development_dependency 'timecop', '~>0.7.1'
   s.add_development_dependency 'yajl-ruby', '~>1.2'
-  s.add_development_dependency 'mongoid', '~> 4', github: 'mongoid/mongoid'
+  s.add_development_dependency 'mongoid', '~> 4'
   s.add_development_dependency 'bson', '2.2.2'
 end
